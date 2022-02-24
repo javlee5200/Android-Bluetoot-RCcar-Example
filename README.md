@@ -1,17 +1,9 @@
 # Android-Simple-Bluetooth-Example
 
-<img src="Logotype primary.png" width="60%" height="60%" />
 
-[![Build Status](https://travis-ci.org/bauerjj/Android-Simple-Bluetooth-Example.svg?branch=master)](https://travis-ci.org/bauerjj/Android-Simple-Bluetooth-Example)
 
 A simple Android bluetooth example to turn on/off the radio and to view and connect with other devices. It has associated embedded firmware code to connect to an Arduino to test the bi-directional data stream.
 
-For a complete tutorial write-up, please see here: 
-
-http://mcuhq.com/27/simple-android-bluetooth-application-with-arduino-example
-<p align="center">
-<img src="logo.png" width="35%" height="35%" />
-</p>
 
 ## Introduction
 
@@ -34,7 +26,7 @@ This is a simple demo app that creates buttons to toggle ON/OFF the bluetooth ra
 
 ## Issues
 
-Please submit all issues to the github tracker. Pull requests are also encouraged. General comments can be left either inside github or at [mcuhq.com](http://mcuhq.com/27/simple-android-bluetooth-application-with-arduino-example).
+Please submit all issues to the github tracker. Pull requests are also encouraged. General comments can be left either inside github
 
 
 
